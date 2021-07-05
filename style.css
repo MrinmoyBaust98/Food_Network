@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+.headder{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+   box-shadow: 2px 2px 2px 1px rgb(88, 63, 63);    
+}
+.headder img{
+    width: 40px;
+    height: 50px;  
+    padding-left: 60px;
+    padding-right: 20px;
+    padding-top: 10px;
+    
+}
+.headder h1{
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color: rgb(121, 71, 35);
+    padding-right: 650px;
+
+}
+.option{
+    padding-top: 20px;
+}
+.option p{
+    display: inline;
+    font-family: 'Rubik', sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    padding-right: 80px;
+    color: rgb(211, 153, 5);
+}
