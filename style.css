@@ -1,19 +1,20 @@
 body{
     margin: 0;
+    font-family: 'Rubik', sans-serif;
 }
 .headder{
     display: flex;
     padding-left: 10px;
     padding-top: 10px;
-   box-shadow: 2px 2px 2px 1px rgb(88, 63, 63);    
+   box-shadow: 2px 2px 2px 1px rgb(88, 63, 63);   
+   margin-bottom: 100PX; 
 }
 .headder img{
     width: 40px;
     height: 50px;  
     padding-left: 60px;
     padding-right: 20px;
-    padding-top: 10px;
-    
+    padding-top: 10px;  
 }
 .headder h1{
     font-family: 'Otomanopee One', sans-serif;
@@ -21,7 +22,6 @@ body{
     font-weight: bolder;
     color: rgb(121, 71, 35);
     padding-right: 650px;
-
 }
 .option{
     padding-top: 20px;
@@ -32,5 +32,109 @@ body{
     font-size: 23px;
     font-weight: bold;
     padding-right: 80px;
-    color: rgb(211, 153, 5);
+    color: rgb(73, 71, 185);
 }
+
+/*Second Section Start*/
+
+.middle_part{
+    display: flex;
+    margin-bottom: 100PX; 
+
+}
+.half_part{
+    width: 50%;
+    padding-left: 7%;
+}
+h1{
+    font-size: 45px;
+    font-weight: bolder; 
+}
+.highlight{
+    color: rgb(223, 110, 18);
+}
+.paragraph{
+    font-size: 23px;
+    font-weight: 500;
+    text-align: justify;
+}
+.click_me{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    background: linear-gradient(#e9a033d5,rgb(190, 39, 12));
+    color: white;
+    padding: 8px 14px;
+    border-radius: 10px;
+}
+.half_part img{
+    width: 75%;
+    height: 450px;
+    margin-left: 7%;
+}
+
+/*Third Section Start*/
+
+.middle_part2{
+    display: flex;
+    background-image: url("Picture/Other/Frame58.jpg");
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+}
+.half_part2{
+    width: 50%;
+    padding-right: 20%;
+    padding: 45px;
+}
+.half_part2 img{
+    width: 50%;
+    height: 470px;
+    margin-left: 20%;
+}
+.half_part2 ul{
+    font-size: 21px;
+    margin-bottom: 35px;
+}
+
+/*Fourth Section Start*/
+.middle_part3{
+    margin-bottom: 60px;
+}
+.middle_part3 h2{
+    text-align: center;
+    font-size: 45px;
+    color: rgba(187, 175, 11, 0.849);
+}
+#make_center{
+    text-align: center;
+    font-size: 22px;
+}
+.show_flex{
+    display: flex;
+    padding: 10px;
+    margin-top: 25px;
+}
+.management{
+    width: 27.33%;
+    box-shadow: 10px 10px 20px gray;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 15px;
+    padding: 15px 15px 10px 15px;
+}
+.management img{
+    width: 99%;
+    height: 250px;
+    border-radius: 10px;
+}
+.management h3{
+    color: rgb(141, 16, 16);
+    font-size: 30px;
+    font-weight:bolder;
+}
+.management p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+
