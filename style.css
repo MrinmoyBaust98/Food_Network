@@ -35,7 +35,6 @@ body{
     color: rgb(73, 71, 185);
 }
 
-/*Second Section Start*/
 
 .middle_part{
     display: flex;
@@ -73,8 +72,6 @@ h1{
     margin-left: 7%;
 }
 
-/*Third Section Start*/
-
 .middle_part2{
     display: flex;
     background-image: url("Picture/Other/Frame58.jpg");
@@ -96,7 +93,6 @@ h1{
     margin-bottom: 35px;
 }
 
-/*Fourth Section Start*/
 .middle_part3{
     margin-bottom: 60px;
 }
